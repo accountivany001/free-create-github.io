@@ -1,2 +1,2 @@
-# free-create-github.io
+# free-create.github.io
 free-create
